@@ -1,18 +1,28 @@
-Romaka_Garment_webapp 
-Group Members :
-    1. Y.M.D.S.M.Yapa
+Please go under edit and edit this file as needed for your project
 
-    2.S.A.H.S Madhushan
+<p align="center">
 
-    3. R.M.U.S Wijesinghe
+  <img width="460" height="300" src="G106/client/src/assets/Home.png">
 
-    4.P.R.I.S Rajapaksha
+</p>
 
-    5. K.K.M.N Premasiri
+# Project Name - ROMAKA GARMENT MANAGEMENT SYSTEM 
+Project Prop
 
-    6.M.A.G Jayawardena
+# Batch - 07
+### Group Leader - IT20201050 -  Y.M.D.S.M Yapa (dilki2000)
+### Member 2 - IT20015244 - Wijesinghe R.M.U.S (udarasandaruwan96)
+### Member 3 - IT20010744 - Madhushan S.A.H.S (EarlyBuying)
+### Member 4 - IT20150334 - Gunathilaka K.M.B.P.J (Pbuddhima)
+### Member 5 - IT20130848 - Jayawardena M.A.G (amanijayawardena)
+### Member 6 - IT20160302 - Rajapaksha P.R.I.S (isuRuSajit)
+### Member 7 - IT20151560 - Lakshan N.M.D(DILEESHA1)
+### Member 8 - IT20206628 - Premasiri k.k.m.n(kkmn2000)
 
-    7.N.M.D Lakshan
+#### Brief Description of Project - Building an automated web based application for a garment factory which uses new technologies with nice looking User interfaces.
 
-    8.Gunathilaka K.M.B.P.J
+#### Technologies used - MERN Stack (Mongo, Express, React, Node)
+
+
+Note - The student's github account should be given in brackets e.g. (IT20212232), this ideally should be your student id 
 
